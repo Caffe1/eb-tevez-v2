@@ -1,5 +1,5 @@
--- script feito por abbot#3355 --
-  -- demoro algumas horas --
+-- script feito por CAFFE E OIILUKAZ --
+  -- SCRIPT EB TEVEZ --
       -- 17/03/2024 --
       
       local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
